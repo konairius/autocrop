@@ -1,0 +1,8 @@
+# Virtual Environment
+.venv/
+
+# PDF and JPG files
+*.pdf
+*.jpg
+autoconvert.sh
+autocrop_v4.sh
